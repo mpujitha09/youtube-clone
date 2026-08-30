@@ -1,0 +1,14 @@
+ .sidebar{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    top: 55px;
+    background-color: white;
+    width: 72px;
+ }
+ .sidebar-link{
+    background-color: lightgray;
+    height: 75px;
+    margin-bottom: 1px;
+
+ }
